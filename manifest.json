@@ -1,0 +1,43 @@
+{
+    "name": "Love Messages",
+    "short_name": "LoveMsgs",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffebee",
+    "theme_color": "#e91e63",
+    "description": "A lovely app to show random love messages.",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  {
+    "name": "Love Messages",
+    "short_name": "LoveMsgs",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffebee",
+    "theme_color": "#e91e63",
+    "description": "A lovely app to show random love messages.",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+    
